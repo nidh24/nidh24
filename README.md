@@ -1,4 +1,11 @@
 ## Hi there 👋
+👋 Hi, I'm a passionate Software Developer focused on **Backend development**. My main toolkit includes **Python** and its frameworks like **Flask**, **FastAPI**, and **Django**.
+
+🚀 I love **automating** workflows, exploring the latest tech trends, and continuously learning. I've recently started diving into **Generative AI** and working on exciting new possibilities with AI-driven projects.
+
+🌐 Occasionally, I also venture into the frontend world with **JavaScript** and **React** to build complete web solutions.
+
+💡 Always curious, always coding. Let's build something cool together!
 
 <!--
 **nidh24/nidh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
